@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660260900786",
+    "project_id": "ganiconnect-96f12",
+    "storage_bucket": "ganiconnect-96f12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660260900786:android:856b735ebd6b2af73d5eab",
+        "android_client_info": {
+          "package_name": "com.example.ganiconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmR5S5e36B_tXJkayf9wfous1nZKdUCcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
